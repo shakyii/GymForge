@@ -1,2 +1,2 @@
 # GymForge
-Simple html+css website with a small usage of javascript to achieve some visual effects while using the website.
+This project is a responsive and modern web design for a gym or fitness-related website, featuring a clean and user-friendly interface. The website is designed to adapt seamlessly across a variety of screen sizes, from large desktop screens to mobile devices. In the project i used a little bit of JavaScript to achive some visual effects like sticky navigation or change the view of navigation for mobile screens.
